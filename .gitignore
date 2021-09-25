@@ -1,0 +1,15 @@
+# ignore all logs
+*.log
+
+# ignore *.o and *.mod files
+*.o
+*.mod
+
+# ignore compiled file
+theory
+
+# ignore output
+*.out
+
+# ignore editor files
+*.swp
